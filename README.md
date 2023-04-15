@@ -19,4 +19,4 @@ A back end for an e-commerce website that uses the latest technologies to compet
 
 # Demo
 
-[![Link to demo on google drive](https://cdn-icons-png.flaticon.com/512/5359/5359890.png)]()
+[![Link to demo on google drive](https://cdn-icons-png.flaticon.com/512/5359/5359890.png)](chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/5ba44e79-20b2-4e95-y5e5-5db3bfe864c0)
